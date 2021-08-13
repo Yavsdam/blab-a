@@ -1,2 +1,2 @@
-local jwda = game.Workspace.jjjjjjwda
+local jwda = game.Workspace.dieaKemeros
 jwda:Destroy
